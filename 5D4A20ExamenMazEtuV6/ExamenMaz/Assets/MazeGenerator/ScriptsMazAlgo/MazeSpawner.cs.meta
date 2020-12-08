@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4dbd480039f60a344bdc0ff90b9d70b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - joueur: {instanceID: 0}
+  - Destroyer: {instanceID: 0}
+  - Floor: {instanceID: 0}
+  - Wall: {instanceID: 0}
+  - Pillar: {instanceID: 0}
+  - Pastille: {instanceID: 0}
+  - PieceDOr: {instanceID: 0}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
